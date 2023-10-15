@@ -8,3 +8,4 @@ dict["psp"]=name2
 dict["rahul"]=name3
 dict["sonu"]=name4
 print(dict)
+print(dict)
